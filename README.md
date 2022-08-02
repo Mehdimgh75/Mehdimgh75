@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mehdimgh75
-- 👀 I’m interested in Business Analysis
-- 🌱 I’m currently learning R, Minitab, and JMP
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Python, Excel, Power BI, SQL and Minitab
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me:You can Email me on my Gmail: Mehdimgh75@gmail.com
 
